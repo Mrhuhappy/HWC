@@ -15,6 +15,7 @@ The following are the code running steps (using BRCA as an example)
 Note: The gene expression data of LUAD includes 19429 genes and 572 samples; The gene expression data of PRAD includes 17770 genes and 547 samples.
 
 4. Add the file path of remrna.txt in line 126 of R Studio, and run 126 until the end. Obtaining feature scores
+Note：install.packages('igraph')
 
 5. Run fram. m
 
