@@ -1,4 +1,3 @@
-%读入数据
 cmcc=importdata('./CMCC.txt');
 tp1=cmcc;
 mrna=importdata('./mrna_score.txt');
