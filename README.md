@@ -8,7 +8,7 @@ The following are the code running steps (using BRCA as an example)
 
 1. Open BRCA.rad using R Studio.
 
-2. drivergene：Run code from 1 to 120 in R Studio. Export gene_ exp1.txt、mrna_ Exp.csv, means.txt files.
+2. drivergene.R：Run code from 1 to 120 in R Studio. Export gene_ exp1.txt、mrna_ Exp.csv, means.txt files.
 
 3. Performed help.m, filtering the matrix to obtain remrna.txt.
 
