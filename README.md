@@ -9,6 +9,7 @@ The following are the code running steps (using BRCA as an example)
 1. Open BRCA.rad using R Studio.
 
 2. drivegene.R：Run code from 1 to 120 in R Studio. Export gene_ exp1.txt、mrna_ Exp.csv, means.txt files.
+
 Note：gene_ exp1.txt preserves the threshold and fluctuation values of each gene; mrna_ Exp.csv is the gene expression matrix; means.txt is the mean of each gene.
 
 3. Performed help.m, filtering the matrix to obtain remrna.txt.
